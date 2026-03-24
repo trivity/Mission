@@ -69,7 +69,7 @@ const VolleyballRates = () => {
     <div className="pt-20">
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-blue-50 to-white py-20 overflow-hidden">
-        <div className="absolute inset-0 bg-[url('https://mcsportspark.org/wp-content/uploads/2014/02/mcsports-17.jpg')] bg-cover bg-center opacity-10"></div>
+        <div className="absolute inset-0 bg-[url('https://images.pexels.com/photos/6203581/pexels-photo-6203581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')] bg-cover bg-center opacity-10"></div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
@@ -106,7 +106,7 @@ const VolleyballRates = () => {
           {/* Featured Image */}
           <div className="mb-16">
             <img
-              src="https://mcsportspark.org/wp-content/uploads/2014/02/mcsports-17.jpg"
+              src="https://images.pexels.com/photos/6203581/pexels-photo-6203581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
               alt="Volleyball Courts"
               className="w-full h-96 object-cover rounded-2xl shadow-2xl"
             />

@@ -69,7 +69,7 @@ const BasketballRates = () => {
     <div className="pt-20">
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-blue-50 to-white py-20 overflow-hidden">
-        <div className="absolute inset-0 bg-[url('https://mcsportspark.org/wp-content/uploads/2014/02/mcsports-15.jpg')] bg-cover bg-center opacity-10"></div>
+        <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1600534220378-df36338afc40?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxODl8MHwxfHNlYXJjaHwyfHxiYXNrZXRiYWxsJTIwY291cnR8ZW58MHx8fHwxNzc0MzI1MDgwfDA&ixlib=rb-4.1.0&q=85')] bg-cover bg-center opacity-10"></div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
@@ -106,7 +106,7 @@ const BasketballRates = () => {
           {/* Featured Image */}
           <div className="mb-16">
             <img
-              src="https://mcsportspark.org/wp-content/uploads/2014/02/mcsports-15.jpg"
+              src="https://images.unsplash.com/photo-1600534220378-df36338afc40?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxODl8MHwxfHNlYXJjaHwyfHxiYXNrZXRiYWxsJTIwY291cnR8ZW58MHx8fHwxNzc0MzI1MDgwfDA&ixlib=rb-4.1.0&q=85"
               alt="Basketball Courts"
               className="w-full h-96 object-cover rounded-2xl shadow-2xl"
             />

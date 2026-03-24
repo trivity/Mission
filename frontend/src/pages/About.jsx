@@ -66,7 +66,7 @@ const About = () => {
             </div>
             <div className="relative">
               <img
-                src="https://mcsportspark.org/global/images/fieldoverhead.jpg"
+                src="https://images.pexels.com/photos/396300/pexels-photo-396300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 alt="MCSP Aerial View"
                 className="rounded-2xl shadow-2xl w-full"
               />
@@ -150,7 +150,7 @@ const About = () => {
               </div>
               <div className="flex items-center">
                 <img
-                  src="https://mcsportspark.org/wp-content/uploads/2014/02/mcsports-17.jpg"
+                  src="https://images.pexels.com/photos/6203581/pexels-photo-6203581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                   alt="MCSP Volleyball Courts"
                   className="rounded-2xl shadow-xl w-full"
                 />

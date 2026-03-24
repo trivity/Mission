@@ -9,28 +9,28 @@ const Home = () => {
     {
       title: 'Basketball',
       count: '6 Courts',
-      image: 'https://mcsportspark.org/wp-content/uploads/2014/02/mcsports-15.jpg',
+      image: 'https://images.unsplash.com/photo-1600534220378-df36338afc40?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxODl8MHwxfHNlYXJjaHwyfHxiYXNrZXRiYWxsJTIwY291cnR8ZW58MHx8fHwxNzc0MzI1MDgwfDA&ixlib=rb-4.1.0&q=85',
       link: '/rates/basketball',
       description: 'Professional-grade indoor basketball courts'
     },
     {
       title: 'Volleyball',
       count: '12 Courts',
-      image: 'https://mcsportspark.org/wp-content/uploads/2014/02/mcsports-17.jpg',
+      image: 'https://images.pexels.com/photos/6203581/pexels-photo-6203581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
       link: '/rates/volleyball',
       description: 'State-of-the-art volleyball facilities'
     },
     {
       title: 'Baseball/Softball',
       count: '7 Fields',
-      image: 'https://mcsportspark.org/wp-content/uploads/2014/02/mcsports-9-e1392654617877.jpg',
+      image: 'https://images.unsplash.com/photo-1583960435304-37f2e1592c37?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzV8MHwxfHNlYXJjaHwzfHxiYXNlYmFsbCUyMGZpZWxkfGVufDB8fHx8MTc3NDMyNTA4N3ww&ixlib=rb-4.1.0&q=85',
       link: '/rates/baseball-softball',
       description: 'Regulation baseball and softball diamonds'
     },
     {
       title: 'Soccer Fields',
       count: 'Multiple Fields',
-      image: 'https://mcsportspark.org/wp-content/uploads/2014/02/mcsports-7.jpg',
+      image: 'https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMjV8MHwxfHNlYXJjaHwyfHxzb2NjZXIlMjBmaWVsZHxlbnwwfHx8fDE3NzQzMjUwOTB8MA&ixlib=rb-4.1.0&q=85',
       link: '/contact',
       description: 'Spacious outdoor soccer facilities'
     }
@@ -47,7 +47,7 @@ const Home = () => {
     <div className="pt-20">
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-blue-50 to-white py-20 lg:py-32 overflow-hidden">
-        <div className="absolute inset-0 bg-[url('https://mcsportspark.org/global/images/fieldoverhead.jpg')] bg-cover bg-center opacity-10"></div>
+        <div className="absolute inset-0 bg-[url('https://images.pexels.com/photos/396300/pexels-photo-396300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')] bg-cover bg-center opacity-10"></div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 animate-fade-in">
@@ -176,7 +176,7 @@ const Home = () => {
             </div>
             <div className="relative">
               <img
-                src="https://mcsportspark.org/wp-content/uploads/2014/02/mcsports-12.jpg"
+                src="https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 alt="MCSP Facilities"
                 className="rounded-2xl shadow-2xl w-full"
               />
